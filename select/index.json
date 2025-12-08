@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "冬と春",
+  "base_artist": "back number",
+  "createdAt": "2025-12-08T17:05:13.744252Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "冬と春 - Winter & Spring",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/01_冬と春_-_Winter_&_Spring_back_number.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "冬と春",
+      "artist": "back number",
+      "has_synced": false,
+      "path": "select/pl_01_冬と春_back_number.txt"
+    }
+  ]
+}
